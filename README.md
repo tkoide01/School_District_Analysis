@@ -22,33 +22,34 @@ Through the analysis, I focused on measuring the change in below variables:
   
   Comparing the two screen shots from district summary before and after replacing the Thomas High School 9th grade students' scorres with NaN, we can observe about 0.1%-0.3% drop in "% Passing Math," "% Passing Reading," and "% Overall Passing" after the event. 
  
- **Before the replacement**
+  **Before the replacement**
   ![](Resources/Overall_District_Summary.png)
   
- **After the replacement**
+  **After the replacement**
   ![](Resources/Overall_District_Summary_NaNremoved.png)
   
   Therefore, the replacement of scores to NaN did slightly negatively impact on the District Summary overall Passing percentage.
   
 + How is the school summary affected?
   
+  Reviewing the below tables, we can find that "% Passing Math," "% Passing Reading," and "% Overall Passing" for Thomas High School are declined by approximately 0.3% after replacing the 9th Grade students' scores by NaN.
+  
+  **Before the replacement**
+  ![](Resources/Top_5_Performing_Schools.png)
+  
+  **After the replacement**
+  ![](Resources/Top_5_Performing_Schools_NaNremoved.png)
 
 + How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
-  Reviewing the below tables, we can find that "% Passing Math," "% Passing Reading," and "% Overall Passing" for Thomas High School are declined by approximately 0.3% after replacing the 9th Grade students' scores by NaN.
-  
-    **Before the replacement**
-  ![](Resources/Top_5_Performing_Schools.png)
-  
- **After the replacement**
-  ![](Resources/Top_5_Performing_Schools_NaNremoved.png)
+
   
   Althouth the event affected the metrics in the previous two cases, the impact was not large enough to affect the ranking of Thomas High School relative to other schools as shown in the below two rankings.
   
   **Before the replacement**
   ![](Resources/Top_5_Performing_Schools.png)
   
- **After the replacement**
+  **After the replacement**
   ![](Resources/Top_5_Performing_Schools_NaNremoved.png)
   
 + How does replacing the ninth-grade scores affect the following:
