@@ -58,33 +58,41 @@ Through the analysis, I focused on measuring the change in below variables:
    + Math and reading scores by grade
 
    **Before the replacement**
+   
    ![](Resources/Scores_by_grade_before.png)
   
    **After the replacement**
+   
    ![](Resources/Scores_by_grade_after.png)
    
    + Scores by school spending
 
    **Before the replacement**
+   
    ![](Resources/Scores_by_spending_before.png)
   
    **After the replacement**
+   
    ![](Resources/Scores_by_spending_after.png)
    
    + Scores by school size
    
    **Before the replacement**
+   
    ![](Resources/Scores_by_size_before.png)
   
    **After the replacement**
+   
    ![](Resources/Scores_by_size_after.png)
    
    + Scores by school type
 
    **Before the replacement**
+   
    ![](Resources/Scores_by_type_before.png)
   
    **After the replacement**
+   
    ![](Resources/Scores_by_type_after.png)
 
 
